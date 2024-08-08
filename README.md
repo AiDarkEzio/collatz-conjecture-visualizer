@@ -59,10 +59,3 @@ The conjecture asserts that no matter what positive integer `n` you start with, 
 ## License
 
 This project is licensed under the MIT License - see the [](LICENSE) file for details.
-```
-
-### `requirements.txt`
-
-```
-matplotlib
-```
