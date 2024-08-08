@@ -15,10 +15,10 @@ The conjecture asserts that no matter what positive integer `n` you start with, 
 
 ## Project Structure
 
-- `collatz_plot.py`: Contains the function to generate the Collatz sequence for a given number.
-- `collatz_plot_one.py`: Plots the Collatz sequence for a single number.
-- `collatz_plot_range.py`: Plots the Collatz sequences for a range of numbers, each in a different color.
-- `requirements.txt`: Lists the dependencies required to run the scripts.
+- [`collatz_plot.py`](https://github.com/AiDarkEzio/collatz-conjecture-visualizer/blob/master/collatz_plot.py): Contains the function to generate the Collatz sequence for a given number.
+- [`collatz_plot_one.py`](https://github.com/AiDarkEzio/collatz-conjecture-visualizer/blob/master/collatz_plot_one.py): Plots the Collatz sequence for a single number.
+- [`collatz_plot_range.py`](https://github.com/AiDarkEzio/collatz-conjecture-visualizer/blob/master/collatz_plot_range.py): Plots the Collatz sequences for a range of numbers, each in a different color.
+- [`requirements.txt`](https://github.com/AiDarkEzio/collatz-conjecture-visualizer/blob/master/requirements.txt): Lists the dependencies required to run the scripts.
 
 ## How to Run This Code
 
@@ -54,8 +54,8 @@ The conjecture asserts that no matter what positive integer `n` you start with, 
 
 ## Author
 
-- Subhadra Poshitha
+- [Subhadra Poshitha](https://github.com/AiDarkEzio)
 
 ## License
 
-This project is licensed under the MIT License - see the [](LICENSE) file for details.
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/AiDarkEzio/collatz-conjecture-visualizer/blob/master/LICENSE) file for details.
